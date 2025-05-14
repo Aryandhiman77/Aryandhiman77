@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aryandhiman77
-- 👀 I’m interested in Web Development, Coding
-- 🌱 I’m currently learning MERN STACK
+- 👀 I’m interested in Web and Mobile App Development & Coding
+- 🌱 I’m currently working MERN STACK
 - 💞️ I’m looking to collaborate with SDE's
-- 📫 How to reach me through Portfolio or LinkedIn :https://developeraryan.000webhostapp.com/ or https://www.linkedin.com/in/aryan-dhiman-453a7623b/ 
-- 😄 Pronouns: DeveloperAryan
+- 📫 How to reach me through LinkedIn :https://www.linkedin.com/in/aryan-dhiman-453a7623b/ 
+- 😄 Pronouns: Developer.Aryan
 - ⚡ Fun fact: I can do anything in programming with little bit of knowledge.
 
 <!---
