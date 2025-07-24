@@ -5,6 +5,7 @@
 - 📫 How to reach me through LinkedIn :https://www.linkedin.com/in/aryan-dhiman-453a7623b/ 
 - 😄 Pronouns: Developer.Aryan
 - ⚡ Fun fact: I can do anything in programming with little bit of knowledge.
+- ![](https://komarev.com/ghpvc/?username=Aryandhiman77&color=green)
 
 <!---
 Aryandhiman77/Aryandhiman77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
