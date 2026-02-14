@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Aryandhiman77
+- 👋 Hi, I’m Aryan.
 - 👀 I’m interested in Web and Mobile App Development & Coding
-- 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me through LinkedIn :https://www.linkedin.com/in/aryan-dhiman-453a7623b/ 
+- 🖥️ I’m currently learning MERN STACK
+- My Portfolio - https://portfolio-bay-sigma-71.vercel.app/
+- 📫 Reach me through LinkedIn :https://www.linkedin.com/in/aryan-dhiman-453a7623b/ 
 - ![](https://komarev.com/ghpvc/?username=Aryandhiman77&color=green)
 
 
